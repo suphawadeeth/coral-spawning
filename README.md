@@ -4,10 +4,6 @@ Once a year around the spring full moon, there will be the biggest orgasm night 
 
 ---
 
-<h3 align="center">
-... Work in progress...
-</h3>
-
 This project is a part of the Data Analytics Bootcamp at Ironhack. 
 
 
