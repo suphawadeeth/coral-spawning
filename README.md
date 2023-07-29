@@ -1,5 +1,5 @@
 # Coral Spawning
-Once a year around the full moon, there will be the biggest orgasm night in the sea. 
+Once a year around the spring full moon, there will be the biggest orgasm night in the sea. 
 
 
 ---
@@ -61,10 +61,12 @@ But that means, the male and female of the same specie have to release gametes a
 
 And 
 
-**how do they communicate?** 
+**How do they communicate?** 
 
 
 These questions are still needed answers. We need more research on corals and coral reproductions to fully understand them. 
+
+And in this project we are going to study about the coral spawning time (around the clocl), when they will spawn.
 
 ---
 
@@ -111,5 +113,3 @@ Access files here
 [07_Machine Learning - Time Series (extra)](https://github.com/suphawadeeth/coral-spawning/blob/main/07_ML_time_series_(extra)/time_series.ipynb)
 
 
-
-<div class='tableauPlaceholder' id='viz1690600670991' style='position: relative'><noscript><a href='#'><img alt='Coral Spawning - Where &amp; When ? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;97&#47;9733T9JX2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;9733T9JX2' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;97&#47;9733T9JX2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='de-DE' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1690600670991');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
