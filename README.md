@@ -80,13 +80,21 @@ The [Dataset](https://data.ncl.ac.uk/articles/dataset/Coral_Spawning_Database/13
 
 # How to use/read files
 Access files here
+
 [01_Data Cleaning](https://github.com/suphawadeeth/coral-spawning/blob/main/01_data_cleaning/data_cleaning.ipynb)
+
 [02_Exploratory Data Analysis](https://github.com/suphawadeeth/coral-spawning/blob/main/02_EDA/exploratory_data_analysis.ipynb)
+
 [03_Machine Learning - Linear Regression](https://github.com/suphawadeeth/coral-spawning/blob/main/03_ML_linear_regression/linear_regression.ipynb)
+
 [04_SQL](https://github.com/suphawadeeth/coral-spawning/blob/main/coral_spawning.sql)
+
 [05_Tableau](https://public.tableau.com/shared/9H39Q2K87?:display_count=n&:origin=viz_share_link)
+
 [06_Presentation Slides]()
+
 [07_Machine Learning - Time Series (extra)]()
+
 
 
 <div class='tableauPlaceholder' id='viz1690378640803' style='position: relative'><noscript><a href='#'><img alt='Coral Spawning - Where &amp; When ? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;coral-spawning-story&#47;CoralsWorldStory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='coral-spawning-story&#47;CoralsWorldStory' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;coral-spawning-story&#47;CoralsWorldStory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='de-DE' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1690378640803');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
