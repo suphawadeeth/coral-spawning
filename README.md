@@ -31,14 +31,13 @@ They reproduce 2 ways:
 
 2. Sexual reproduction, mating between eggs and sperm
 
-### Problem
+## The Problem
 The asexual method can happen any time of the year, fast, and massive. That's why it is widely used for many coral restoration projects. 
 
 But the problem remains because in a long run asexsual reproduction is unsustainable.
 
-Think about the whole community with the same clone. Without genetic diversity, there will be no survivors when there is a widespread disease or a natural catastrophic event e.g. sea temperature rising. 
-
-If no one carries disease-resistant genes, the whole community will vanish.
+## Why is it important?
+Think about the whole community with the same clone. Without genetic diversity, there will be no survivors in case of widespread disease or a natural catastrophic event e.g. sea temperature rising. If no one carries disease-resistant genes, the whole community will vanish.
 
 Increasing genetic diversity is essential for every species on earth including corals. Therefore, sexual reproduction is the answer. 
 
@@ -48,7 +47,7 @@ The gene exchange and mutation allow revolution. This will help coral to adapt t
 
 # Questions
 Coral is an animal but it cannot move around. 
-- **How does it find a mate and have sexual intercourse?**
+- **How do corals find mates and have sexual intercourse?**
 
 And that's why the topic. **Coral spawning!**
 Corals release eggs and sperm into the open water in a massive amount. So that there will be more chances for the eggs and sperm to meet and fertilize.
@@ -67,7 +66,7 @@ These questions are still needed answers. We need more research on corals and co
 
 And in this project we are going to study about the coral spawning time (around the clocl), when they will spawn.
 
-### Project Goal
+## Project Goal
 - Predict coral spawning time (Linear Regression)
 
 ---
@@ -112,6 +111,6 @@ Access files here
 
 [06_Presentation Slides](https://github.com/suphawadeeth/coral-spawning/blob/main/06_presentation_slide/coral_spawning_slides.pdf)
 
-[07_Machine Learning - Time Series (extra)](https://github.com/suphawadeeth/coral-spawning/blob/main/07_ML_time_series_(extra)/time_series.ipynb)
+[07_Machine Learning (extra) - Time Series](https://github.com/suphawadeeth/coral-spawning/blob/main/07_ML_time_series_(extra)/time_series.ipynb)
 
 
