@@ -14,7 +14,7 @@ This project is a part of the Data Analytics Bootcamp at Ironhack.
 # Content
 - [How to use/read files in this repo](#how-to-useread-files)
 - [Project Description](#project-description)
-- [Questions & Hypthesis](#question--hypothesis)
+- [Questions](#questions)
 - [Project Goal](#project-goal)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
@@ -23,20 +23,18 @@ This project is a part of the Data Analytics Bootcamp at Ironhack.
 
 ---
 
-# Project Goal
-- Predict coral spawning time (Linear Regression)
-
 # Project Description
-**Have you ever wondered how corals reproduce?**
+- **Have you ever wondered how corals reproduce?**
 
 They reproduce 2 ways:
 1. Asexual reproduction, splitting and dividing
 
 2. Sexual reproduction, mating between eggs and sperm
 
+### Problem
 The asexual method can happen any time of the year, fast, and massive. That's why it is widely used for many coral restoration projects. 
 
-But the problem remains because it is not sustainable.
+But the problem remains because in a long run asexsual reproduction is unsustainable.
 
 Think about the whole community with the same clone. Without genetic diversity, there will be no survivors when there is a widespread disease or a natural catastrophic event e.g. sea temperature rising. 
 
@@ -48,8 +46,9 @@ As the eggs and sperm fertilize to create a new generation, there will be a chan
 
 The gene exchange and mutation allow revolution. This will help coral to adapt to any changes that could happen in the future and/or the change that is happening now.
 
-# Question & Hypothesis
-Coral is an animal but it cannot move around. **How does it find a mate and have sexual intercourse?**
+# Questions
+Coral is an animal but it cannot move around. 
+- **How does it find a mate and have sexual intercourse?**
 
 And that's why the topic. **Coral spawning!**
 Corals release eggs and sperm into the open water in a massive amount. So that there will be more chances for the eggs and sperm to meet and fertilize.
@@ -57,16 +56,19 @@ Corals release eggs and sperm into the open water in a massive amount. So that t
 But that means, the male and female of the same specie have to release gametes at the same time or must be very close.
 
 
-**How do they know when to release?** 
+- **How do they know when to release?** 
 
 And 
 
-**How do they communicate?** 
+- **How do they communicate?** 
 
 
-These questions are still needed answers. We need more research on corals and coral reproductions to fully understand them. 
+These questions are still needed answers. We need more research on corals and coral reproductions to fully understand them in order to work with/for them. 
 
 And in this project we are going to study about the coral spawning time (around the clocl), when they will spawn.
+
+### Project Goal
+- Predict coral spawning time (Linear Regression)
 
 ---
 
