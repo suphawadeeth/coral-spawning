@@ -212,4 +212,7 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-/Users/kt/Desktop/Project/coral-spawning/random
+
+random/
+03_ML_linear_regression/linear_regression-Copy1.ipynb
+03_ML_linear_regression/spawning_time_test_dataset.csv
